@@ -1,0 +1,9 @@
+#include<iostream.h>
+user namespace std;
+
+int main()
+{
+  cout<<"Hello World";
+
+  return 0;
+}
